@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557300170834.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E42BFD65",
+    "lastKnownWriteTime" : 1538835158,
+    "last_content_update" : 1538835158,
+    "path" : "E:/github/Analysis_of_lncRNA/code.R",
+    "project_path" : "code.R",
+    "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
